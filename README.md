@@ -3,4 +3,4 @@
 
 See: https://github.com/realm/jazzy for more info.
 
-The older versions of the documentation shall me moved to their own folder.
+The older versions of the documentation shall be moved to their own folder.
