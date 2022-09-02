@@ -1,61 +1,61 @@
 {
   "warnings": [
     {
-      "file": "/Users/cefjoeii/Developer/1080 Agile/Test/PowerUpSwift/PowerUpSwift/Classes/Classes/PUButton.swift",
+      "file": "/Users/cefjoeii/Developer/Personal/iOS/PowerUpSwift/PowerUpSwift/Classes/Classes/PUButton.swift",
       "line": 14,
       "symbol": "PUButton.xibLocKey",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/cefjoeii/Developer/1080 Agile/Test/PowerUpSwift/PowerUpSwift/Classes/Classes/PUView.swift",
+      "file": "/Users/cefjoeii/Developer/Personal/iOS/PowerUpSwift/PowerUpSwift/Classes/Classes/PUView.swift",
       "line": 14,
       "symbol": "PUView.cornerRadius",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/cefjoeii/Developer/1080 Agile/Test/PowerUpSwift/PowerUpSwift/Classes/Classes/PUView.swift",
+      "file": "/Users/cefjoeii/Developer/Personal/iOS/PowerUpSwift/PowerUpSwift/Classes/Classes/PUView.swift",
       "line": 18,
       "symbol": "PUView.borderWidth",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/cefjoeii/Developer/1080 Agile/Test/PowerUpSwift/PowerUpSwift/Classes/Classes/PUView.swift",
+      "file": "/Users/cefjoeii/Developer/Personal/iOS/PowerUpSwift/PowerUpSwift/Classes/Classes/PUView.swift",
       "line": 22,
       "symbol": "PUView.borderColor",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/cefjoeii/Developer/1080 Agile/Test/PowerUpSwift/PowerUpSwift/Classes/Classes/PUView.swift",
+      "file": "/Users/cefjoeii/Developer/Personal/iOS/PowerUpSwift/PowerUpSwift/Classes/Classes/PUView.swift",
       "line": 26,
       "symbol": "PUView.shadowRadius",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/cefjoeii/Developer/1080 Agile/Test/PowerUpSwift/PowerUpSwift/Classes/Classes/PUView.swift",
+      "file": "/Users/cefjoeii/Developer/Personal/iOS/PowerUpSwift/PowerUpSwift/Classes/Classes/PUView.swift",
       "line": 30,
       "symbol": "PUView.shadowOpacity",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/cefjoeii/Developer/1080 Agile/Test/PowerUpSwift/PowerUpSwift/Classes/Classes/PUView.swift",
+      "file": "/Users/cefjoeii/Developer/Personal/iOS/PowerUpSwift/PowerUpSwift/Classes/Classes/PUView.swift",
       "line": 34,
       "symbol": "PUView.shadowOffset",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/cefjoeii/Developer/1080 Agile/Test/PowerUpSwift/PowerUpSwift/Classes/Classes/PUView.swift",
+      "file": "/Users/cefjoeii/Developer/Personal/iOS/PowerUpSwift/PowerUpSwift/Classes/Classes/PUView.swift",
       "line": 38,
       "symbol": "PUView.shadowColor",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     }
   ],
-  "source_directory": "/Users/cefjoeii/Developer/1080 Agile/Test/PowerUpSwift"
+  "source_directory": "/Users/cefjoeii/Developer/Personal/iOS/PowerUpSwift"
 }
